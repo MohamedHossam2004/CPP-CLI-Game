@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/mohammedhossam/GIU/Semester 3/Programming III/Project/Milestone 1/Programming III M2/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -std=gnu++17 -o CMakeFiles/Programming_III_M1.dir/main.cpp.o -c \"/Users/mohammedhossam/GIU/Semester 3/Programming III/Project/Milestone 1/Programming III M2/main.cpp\"",
+  "file": "/Users/mohammedhossam/GIU/Semester 3/Programming III/Project/Milestone 1/Programming III M2/main.cpp"
+}
+]
